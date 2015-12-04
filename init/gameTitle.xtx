@@ -1,0 +1,22 @@
+modename gameTitle
+
+
+menu1Button1FileName ta_title_button_play
+menu1Button2FileName ta_title_button_edit
+
+menu1Button1AccelKey1 P
+menu1Button2AccelKey1 E
+
+menu1Button1SizeX 256
+menu1Button1SizeY 64
+
+menu1Button1PrintX 100
+menu1Button1PrintY 200
+menu1Button2PrintX 100
+menu1Button2PrintY 400
+
+
+@menu1Button1ClickSound 1
+@menu1Button1ClickSound 1
+
+
