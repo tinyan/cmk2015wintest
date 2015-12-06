@@ -1,7 +1,7 @@
 number
 mana0,mana1,mana2,mana3,mana4,mana5
 カード名
-type,
+type
 dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,dmy
@@ -12,7 +12,7 @@ filename
 1
 1,0,0,0,0,0
 不毛の土地
-land,
+land
 dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,dmy
@@ -22,7 +22,7 @@ ta_dummycard
 2
 1,0,0,0,0,0
 土地
-land,
+land
 dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,dmy
@@ -36,7 +36,7 @@ ta_dummycard
 people
 dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,dmy,dmy,dmy
-dmy,dmy,dmy,dmy,dmy,dmy
+text1,text2,text3,text4,dmy,dmy
 32
 ta_dummycard
 
@@ -46,7 +46,7 @@ ta_dummycard
 people
 dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,dmy,dmy,dmy
-dmy,dmy,dmy,dmy,dmy,dmy
+テキストが入る,@dmy,@dmy,@dmy,dmy,dmy
 33
 ta_dummycard
 
