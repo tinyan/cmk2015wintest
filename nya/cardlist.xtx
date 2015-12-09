@@ -13,7 +13,7 @@ filename
 1,0,0,0,0,0
 •s–Ñ‚Ì“y’n
 land
-dmy,dmy,dmy,dmy,dmy,dmy,dmy
+3,0,0,0,0,0,dmy
 dmy,dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,dmy
 16
@@ -21,14 +21,23 @@ ta_dummycard
 
 2
 1,0,0,0,0,0
-“y’n
+—Î“y’n
 land
-dmy,dmy,dmy,dmy,dmy,dmy,dmy
+0,2,0,0,0,0,dmy
 dmy,dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,dmy
 17
 ta_dummycard
 
+3
+1,0,0,0,0,0
+Ô“y’n
+land
+0,0,2,0,0,0,dmy
+dmy,dmy,dmy,dmy,dmy,dmy,dmy,dmy
+dmy,dmy,dmy,dmy,dmy,dmy
+18
+ta_dummycard
 
 100
 1,1,0,0,0,0
