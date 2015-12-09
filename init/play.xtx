@@ -1,0 +1,20 @@
+modename play
+
+
+useFilename ta_play_button_use
+useSizeX 128
+useSizeY 64
+usePrintX 50
+usePrintY 600
+
+dropFilename ta_play_button_drop
+dropSizeX 128
+dropSizeY 64
+dropPrintX 250
+dropPrintY 600
+
+cancelFilename ta_play_button_cancel
+cancelSizeX 128
+cancelSizeY 64
+cancelPrintX 400
+cancelPrintY 600

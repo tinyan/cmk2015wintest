@@ -7,6 +7,8 @@ optionButtonCreateFlag 0
 messageCursorCreateFlag 0
 dataFileDontCreate 1
 
+@fukuromoji 2
+
 
 totalVolumeUseFlag 1
 @totalVolumePrintFlag 0
