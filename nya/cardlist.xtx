@@ -54,7 +54,7 @@ ta_dummycard
 エリート歩兵
 people
 dmy,dmy,dmy,dmy,dmy,dmy,dmy
-dmy,dmy,dmy,dmy,dmy,dmy,dmy,dmy
+dmy,dmy,dmy,dmy,dmy,dmy,equipPix,itemPic
 テキストが入る,@dmy,@dmy,@dmy,dmy,dmy
 33
 ta_dummycard
@@ -64,8 +64,8 @@ ta_dummycard
 1,1,0,0,0,0
 ひのきのぼう
 equip
-dmy,dmy,dmy,dmy,dmy,dmy,dmy
-dmy,dmy,dmy,dmy,dmy,dmy,dmy,dmy
+0,dmy,dmy,dmy,dmy,dmy,dmy
+dmy,dmy,dmy,dmy,dmy,dmy,0,0
 dmy,dmy,dmy,dmy,dmy,dmy
 48
 ta_dummycard
@@ -74,8 +74,8 @@ ta_dummycard
 1,1,0,0,0,0
 矛盾の楯
 equip
-dmy,dmy,dmy,dmy,dmy,dmy,dmy
-dmy,dmy,dmy,dmy,dmy,dmy,dmy,dmy
+1,dmy,dmy,dmy,dmy,dmy,dmy
+dmy,dmy,dmy,dmy,dmy,dmy,1,1
 dmy,dmy,dmy,dmy,dmy,dmy
 49
 ta_dummycard
