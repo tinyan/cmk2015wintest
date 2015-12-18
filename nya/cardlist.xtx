@@ -17,7 +17,7 @@ land
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 dmy,dmy,dmy,dmy,@dmy,@dmy
 16
-ta_dummycard
+ta_card_land_fumo
 
 2
 2,0,0,0,0,0
@@ -27,7 +27,7 @@ land
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 dmy,dmy,dmy,dmy,@dmy,@dmy
 17
-ta_dummycard
+ta_card_land_green
 
 3
 2,0,0,0,0,0
@@ -35,9 +35,9 @@ ta_dummycard
 land
 0,0,2,0,0,0,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
-dmy,dmy,dmy,dmy,@dmy,@dmy
+赤マナ源２,dmy,dmy,dmy,@dmy,@dmy
 18
-ta_dummycard
+ta_card_land_red
 
 100
 1,1,0,0,0,0
@@ -47,7 +47,7 @@ dmy,100,10,3,70,100,20
 12,200,dmy,dmy,2,0,dmy,dmy
 text1,text2,text3,text4,@dmy,@dmy
 32
-ta_dummycard
+ta_card_people_soldier
 
 101
 1,2,0,0,0,0
@@ -57,7 +57,7 @@ dmy,200,15,5,70,100,20
 12,300,dmy,dmy,2,1,dmy,dmy
 テキストが入る,@dmy,@dmy,@dmy,@dmy,@dmy
 33
-ta_dummycard
+ta_card_people_elite
 
 102
 1,1,0,0,0,0
@@ -67,7 +67,7 @@ dmy,200,16,1,270,100,20
 30,100,dmy,dmy,2,0,dmy,dmy
 テキストが入る,@dmy,@dmy,@dmy,@dmy,@dmy
 34
-ta_dummycard
+ta_card_dummy
 
 200
 1,1,0,0,0,0
@@ -77,7 +77,7 @@ equip
 dmy,dmy,dmy,dmy,2,0,0,0
 @dmy,@dmy,@dmy,@dmy,@dmy,@dmy
 48
-ta_dummycard
+ta_card_dummy
 
 201
 1,1,0,0,0,0
@@ -87,7 +87,7 @@ equip
 dmy,dmy,dmy,dmy,2,0,1,1
 @dmy,@dmy,@dmy,@dmy,@dmy,@dmy
 49
-ta_dummycard
+ta_card_dummy
 
 
 300
@@ -98,7 +98,7 @@ dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 @dmy,@dmy,@dmy,@dmy,@dmy,@dmy
 64
-ta_dummycard
+ta_card_dummy
 
 301
 1,1,0,0,0,0
@@ -108,7 +108,7 @@ dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 @dmy,@dmy,@dmy,@dmy,@dmy,@dmy
 65
-ta_dummycard
+ta_card_dummy
 
 
 400
@@ -119,7 +119,7 @@ dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,dmy
 80
-ta_dummycard
+ta_card_dummy
 
 401
 1,0,1,0,0,0
@@ -129,7 +129,7 @@ dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 @dmy,@dmy,@dmy,@dmy,@dmy,@dmy
 81
-ta_dummycard
+ta_card_dummy
 
 
 500
@@ -140,7 +140,7 @@ dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 @dmy,@dmy,@dmy,@dmy,@dmy,@dmy
 96
-ta_dummycard
+ta_card_dummy
 
 501
 1,1,1,0,0,0
@@ -150,7 +150,7 @@ dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 @dmy,@dmy,@dmy,@dmy,@dmy,@dmy
 97
-ta_dummycard
+ta_card_dummy
 
 
 600
@@ -161,7 +161,7 @@ dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 @dmy,@dmy,@dmy,@dmy,@dmy,@dmy
 112
-ta_dummycard
+ta_card_dummy
 
 601
 1,1,0,0,0,0
@@ -171,4 +171,4 @@ dmy,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 @dmy,@dmy,@dmy,@dmy,@dmy,@dmy
 113
-ta_dummycard
+ta_card_dummy
