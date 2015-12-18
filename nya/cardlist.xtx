@@ -13,9 +13,9 @@ filename
 1,0,0,0,0,0
 •s–Ñ‚Ì“y’n
 land
-3,0,0,0,0,0,dmy
+1,0,0,0,0,0,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
-dmy,dmy,dmy,dmy,@dmy,@dmy
+ƒ}ƒi‚ğ¶‚İo‚·—Í‚ğ,‚P“¾‚é,@dmy,@dmy,@dmy,@dmy
 16
 ta_card_land_fumo
 
@@ -23,9 +23,9 @@ ta_card_land_fumo
 2,0,0,0,0,0
 —Î“y’n
 land
-0,2,0,0,0,0,dmy
+0,1,0,0,0,0,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
-dmy,dmy,dmy,dmy,@dmy,@dmy
+—Îƒ}ƒi‚ğ¶‚İo‚·—Í‚ğ,‚P“¾‚é,@dmy,@dmy,@dmy,@dmy
 17
 ta_card_land_green
 
@@ -33,11 +33,42 @@ ta_card_land_green
 2,0,0,0,0,0
 Ô“y’n
 land
-0,0,2,0,0,0,dmy
+0,0,1,0,0,0,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 Ôƒ}ƒiŒ¹‚Q,dmy,dmy,dmy,@dmy,@dmy
 18
 ta_card_land_red
+
+4
+3,0,0,0,0,0
+”ì—€‚È“y’n
+land
+2,0,0,0,0,0,dmy
+dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
+ƒ}ƒi‚ğ¶‚İo‚·—Í‚ğ,‚R“¾‚é,@dmy,@dmy,@dmy,@dmy
+19
+ta_card_land_fumo
+
+5
+2,1,0,0,0,0
+”ì—€‚È—Î“y’n
+land
+0,3,0,0,0,0,dmy
+dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
+—Îƒ}ƒi‚ğ¶‚İo‚·—Í‚ğ,‚R“¾‚é,@dmy,@dmy,@dmy,@dmy
+20
+ta_card_land_green
+
+6
+2,1,0,0,0,0
+”ì—€‚ÈÔ“y’n
+land
+0,0,3,0,0,0,dmy
+dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
+Ôƒ}ƒiŒ¹‚R,dmy,dmy,dmy,@dmy,@dmy
+21
+ta_card_land_red
+
 
 100
 1,1,0,0,0,0
@@ -45,7 +76,7 @@ ta_card_land_red
 people
 dmy,100,10,3,70,100,20
 12,200,dmy,dmy,2,0,dmy,dmy
-text1,text2,text3,text4,@dmy,@dmy
+•à•º‚ğ¢Š«,@text2,@text3,@text4,@dmy,@dmy
 32
 ta_card_people_soldier
 
@@ -67,13 +98,13 @@ dmy,200,16,1,270,100,20
 30,100,dmy,dmy,2,0,dmy,dmy
 ƒeƒLƒXƒg‚ª“ü‚é,@dmy,@dmy,@dmy,@dmy,@dmy
 34
-ta_card_dummy
+ta_card_people_archer
 
 200
-1,1,0,0,0,0
+1,0,1,0,0,0
 ‚Ğ‚Ì‚«‚Ì‚Ú‚¤
 equip
-0,dmy,dmy,5,dmy,dmy,dmy
+0,dmy,6,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,2,0,0,0
 @dmy,@dmy,@dmy,@dmy,@dmy,@dmy
 48
@@ -83,11 +114,11 @@ ta_card_dummy
 1,1,0,0,0,0
 –µ‚‚Ì|
 equip
-1,dmy,dmy,dmy,5,dmy,dmy
+1,dmy,dmy,5,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,2,0,1,1
 @dmy,@dmy,@dmy,@dmy,@dmy,@dmy
 49
-ta_card_dummy
+ta_card_equip_shield
 
 
 300
@@ -112,7 +143,7 @@ ta_card_dummy
 
 
 400
-1,1,0,0,0,0
+1,0,1,0,0,0
 ‚Î‚æ‚¦‚ñ
 spell
 dmy,dmy,dmy,dmy,dmy,dmy,dmy
