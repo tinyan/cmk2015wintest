@@ -60,7 +60,7 @@ dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 ta_card_land_green
 
 6
-2,1,0,0,0,0
+2,0,1,0,0,0
 ”ì—€‚ÈÔ“y’n
 land
 0,0,3,0,0,0,dmy
@@ -146,9 +146,9 @@ ta_card_dummy
 1,0,1,0,0,0
 ‚Î‚æ‚¦‚ñ
 spell
-dmy,dmy,dmy,dmy,dmy,dmy,dmy
-dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
-dmy,dmy,dmy,dmy,dmy,dmy
+dmy,dmy,15,dmy,dmy,dmy,dmy
+dmy,dmy,dmy,dmy,0,0,dmy,dmy
+“G‘S‘Ì‚É‚P‚Tƒ_ƒ[ƒW,dmy,dmy,dmy,dmy,dmy
 80
 ta_card_dummy
 
@@ -156,9 +156,9 @@ ta_card_dummy
 1,0,1,0,0,0
 ‚Ó‚Ÿ‚¢‚â
 spell
-dmy,dmy,dmy,dmy,dmy,dmy,dmy
-dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
-@dmy,@dmy,@dmy,@dmy,@dmy,@dmy
+dmy,dmy,30,dmy,dmy,dmy,dmy
+dmy,dmy,dmy,dmy,3,0,dmy,dmy
+‚R‚Oƒ_ƒ[ƒW‚Ì‰Î‹…,‚R‚Ï‚Â,@dmy,@dmy,@dmy,@dmy
 81
 ta_card_dummy
 
@@ -188,9 +188,9 @@ ta_card_dummy
 1,1,0,0,0,0
 ‚à‚à‚ñ‚ª
 world
-dmy,dmy,dmy,dmy,dmy,dmy,dmy
+0,dmy,-100,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
-@dmy,@dmy,@dmy,@dmy,@dmy,@dmy
+ƒXƒyƒ‹‚ÌˆĞ—Í‚ª‚P‚O‚O‰º‚ª‚é,@dmy,@dmy,@dmy,@dmy,@dmy
 112
 ta_card_dummy
 
@@ -198,8 +198,22 @@ ta_card_dummy
 1,1,0,0,0,0
 ‚à‚à‚ñ
 world
-dmy,dmy,dmy,dmy,dmy,dmy,dmy
+0,dmy,40,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
-@dmy,@dmy,@dmy,@dmy,@dmy,@dmy
+ƒXƒyƒ‹‚ÌˆĞ—Í‚ª‚S‚Oã‚ª‚é,@dmy,@dmy,@dmy,@dmy,@dmy
 113
 ta_card_dummy
+
+
+602
+1,1,0,0,0,0
+‚É‚á[‚ñ
+world
+1,dmy,15,dmy,dmy,dmy,dmy
+dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
+UŒ‚—Í‚ª‚P‚Tã‚ª‚é,@dmy,@dmy,@dmy,@dmy,@dmy
+114
+ta_card_dummy
+
+
+
