@@ -69,6 +69,28 @@ dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 21
 ta_card_land_red
 
+7
+0,1,0,0,0,0
+”ì—€‚È—Î“y’n
+land
+0,1,0,0,0,0,dmy
+dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
+—Îƒ}ƒi‚ğ¶‚İo‚·—Í‚ğ,‚P“¾‚é,@dmy,@dmy,@dmy,@dmy
+22
+ta_card_land_green
+
+8
+0,0,1,0,0,0
+”ì—€‚ÈÔ“y’n
+land
+0,0,1,0,0,0,dmy
+dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
+Ôƒ}ƒiŒ¹‚P,dmy,dmy,dmy,@dmy,@dmy
+23
+ta_card_land_red
+
+
+
 
 100
 1,1,0,0,0,0
@@ -120,14 +142,24 @@ dmy,dmy,dmy,dmy,2,0,1,1
 49
 ta_card_equip_shield
 
+202
+0,0,1,0,0,0
+ƒhƒ‰ƒ}Œ•
+equip
+0,dmy,4,dmy,dmy,dmy,dmy
+dmy,dmy,dmy,dmy,2,0,0,0
+@dmy,@dmy,@dmy,@dmy,@dmy,@dmy
+50
+ta_card_dummy
+
 
 300
 1,1,0,0,0,0
 ƒ|[ƒVƒ‡ƒ“
 item
-dmy,dmy,dmy,dmy,dmy,dmy,dmy
-dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
-@dmy,@dmy,@dmy,@dmy,@dmy,@dmy
+0,50,dmy,dmy,dmy,dmy,dmy
+dmy,dmy,dmy,dmy,3,0,dmy,dmy
+‚Rl‚T‚O‰ñ•œ,@dmy,@dmy,@dmy,@dmy,@dmy
 64
 ta_card_dummy
 
@@ -135,11 +167,13 @@ ta_card_dummy
 1,1,0,0,0,0
 ƒGƒŠƒNƒT[
 item
-dmy,dmy,dmy,dmy,dmy,dmy,dmy
-dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
-@dmy,@dmy,@dmy,@dmy,@dmy,@dmy
+0,30,dmy,dmy,dmy,dmy,dmy
+dmy,dmy,dmy,dmy,0,0,dmy,dmy
+‘Sˆõ‚R‚O‰ñ•œ,@dmy,@dmy,@dmy,@dmy,@dmy
 65
 ta_card_dummy
+
+
 
 
 400
@@ -228,7 +262,7 @@ ta_card_dummy
 1,1,0,0,0,0
 ‚à‚à‚ñ‚ª
 world
-0,dmy,-100,dmy,dmy,dmy,dmy
+2,dmy,-100,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 ƒXƒyƒ‹‚ÌˆĞ—Í‚ª‚P‚O‚O‰º‚ª‚é,@dmy,@dmy,@dmy,@dmy,@dmy
 112
@@ -255,5 +289,23 @@ dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 114
 ta_card_dummy
 
+603
+1,0,0,0,0,0
+‚·‚ë‚¤
+world
+3,dmy,dmy,dmy,dmy,dmy,dmy
+dmy,20,dmy,dmy,dmy,0,dmy,dmy
+’ÊíˆÚ“®‘¬“x‚ª,‚Q‚O“‚É‚È‚é,@dmy,@dmy,@dmy,@dmy
+115
+ta_card_dummy
 
+604
+1,0,0,0,0,0
+í‚¢‚Í”‚¾‚æŒZ‹M
+world
+4,dmy,dmy,dmy,dmy,dmy,dmy
+dmy,dmy,dmy,dmy,2,0,dmy,dmy
+‘•”õ‚âlƒJ[ƒh‚Ì,”z’u”‚ª‘‚¦‚é,@dmy,@dmy,@dmy,@dmy
+115
+ta_card_dummy
 
