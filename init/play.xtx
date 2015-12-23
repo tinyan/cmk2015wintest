@@ -1,11 +1,20 @@
 modename play
 
+backFilename ta_editdeck_button_quit
+backButtonBGUse 0
+backSizeX 128
+backSizeY 64
+backPrintX 420
+backPrintY 20
+
 
 useFilename ta_play_button_use
 useSizeX 128
 useSizeY 64
 usePrintX 50
 usePrintY 600
+useClickSound 1
+
 
 dropFilename ta_play_button_drop
 dropSizeX 128
