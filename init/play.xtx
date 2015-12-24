@@ -1,11 +1,14 @@
 modename play
 
-backFilename ta_editdeck_button_quit
+backFilename ta_play_exit
 backButtonBGUse 0
-backSizeX 128
-backSizeY 64
-backPrintX 420
-backPrintY 20
+backSizeX 32
+backSizeY 32
+backPrintX 500
+backPrintY 8
+backAnimePattern1 2
+backAnimeSpeed1 10
+backAnimeType1 7
 
 
 useFilename ta_play_button_use
