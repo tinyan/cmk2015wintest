@@ -1,5 +1,7 @@
 name game
 
+systemsoundloadnumber 16
+
 noScriptFlag 1
 noMessageWindowFlag 1
 systemMenuClassDisable 1
@@ -123,7 +125,6 @@ shortCutConfigSound 1
 
 maxSkipFrame 4
 
-systemsoundloadnumber 4
 
 
 MaxcgcharaNumber 2

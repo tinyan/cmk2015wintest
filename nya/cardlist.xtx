@@ -3,7 +3,9 @@ mana0,mana1,mana2,mana3,mana4,mana5
 カード名
 type
 dmy,HP,AT,DF,RANGE,ATTACKSPEED,OCCUPY
-WEAPONSPEED,MOVESPEED,dmy,dmy,個数,レア,dmy,dmy
+WEAPONSPEED,MOVESPEED,dmy
+sound
+個数,レア,equipPic,itemPic
 text1,text2,text3,text4,plaintext1,plaintext2
 minicardnumber
 filename
@@ -14,7 +16,9 @@ filename
 不毛の土地
 land
 1,0,0,0,0,0,dmy
-dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
+dmy,dmy,dmy
+1
+dmy,0,dmy,dmy
 マナを生み出す力,@,@,@,@dmy,@dmy
 16
 ta_card_land_fumo
@@ -24,7 +28,9 @@ ta_card_land_fumo
 命の森
 land
 0,1,0,0,0,0,dmy
-dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
+dmy,dmy,dmy
+2
+dmy,0,dmy,dmy
 緑マナを生み出す力,@,@,@,@dmy,@dmy
 17
 ta_card_land_green
@@ -34,7 +40,7 @@ ta_card_land_green
 燃え盛る大地
 land
 0,0,1,0,0,0,dmy
-dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
+dmy,dmy,dmy,2,dmy,0,dmy,dmy
 赤マナを生み出す力,@,@,@,@dmy,@dmy
 18
 ta_card_land_red

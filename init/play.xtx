@@ -1,5 +1,9 @@
 modename play
 
+enterFadeinType 39
+enterFadeinTime 50
+
+
 backFilename ta_play_exit
 backButtonBGUse 0
 backSizeX 32
@@ -16,7 +20,7 @@ useSizeX 128
 useSizeY 64
 usePrintX 50
 usePrintY 600
-useClickSound 1
+@useClickSound 1
 
 
 dropFilename ta_play_button_drop

@@ -1,5 +1,9 @@
 modename selectstage
 
+enterFadeinType 79
+enterFadeinTime 20
+
+
 backFilename ta_editdeck_button_quit
 backButtonBGUse 0
 backSizeX 128
