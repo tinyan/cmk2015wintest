@@ -47,7 +47,7 @@ land
 dmy,dmy,dmy,dmy,dmy,1,dmy,dmy
 マナを大量に生み出す,@,@,@,@dmy,@dmy
 19
-ta_card_land_fumo
+ta_card_land_hiyoku
 
 5
 2,1,0,0,0,0
@@ -57,7 +57,7 @@ land
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 緑マナを大量に,生み出す,@,@,@dmy,@dmy
 20
-ta_card_land_green
+ta_card_land_woods
 
 6
 2,0,1,0,0,0
@@ -67,7 +67,7 @@ land
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 赤マナを大量に,生み出す,@,@,@dmy,@dmy
 21
-ta_card_land_red
+ta_card_land_volcano
 
 7
 0,1,0,0,0,0
@@ -77,17 +77,17 @@ land
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 緑マナを生み出す力,@,@,@,@dmy,@dmy
 22
-ta_card_land_green
+ta_card_land_poorwoods
 
 8
 0,0,1,0,0,0
-死火山
+黄泉火山
 land
 0,0,1,0,0,0,dmy
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 赤マナを生み出す力,@,@,@,@dmy,@dmy
 23
-ta_card_land_red
+ta_card_land_shikazan
 
 
 
@@ -130,7 +130,7 @@ dmy,400,25,15,60,100,20
 10,150,dmy,dmy,1,2,dmy,dmy
 重装歩兵を召喚,@,@,@,@dmy,@dmy
 35
-ta_card_dummy
+ta_card_people_heavy
 
 104
 5,3,0,0,0,0
@@ -139,8 +139,8 @@ people
 dmy,600,35,22,60,100,20
 9,140,dmy,dmy,1,2,dmy,dmy
 騎士を召喚,@,@,@,@dmy,@dmy
-35
-ta_card_dummy
+36
+ta_card_people_knight
 
 105
 5,0,0,0,0,0
@@ -149,8 +149,8 @@ people
 dmy,100,10,3,60,100,20
 9,140,dmy,dmy,5,1,dmy,dmy
 兵の戦隊を召喚,@,@,@,@dmy,@dmy
-35
-ta_card_dummy
+37
+ta_card_people_sentai
 
 
 106
@@ -203,7 +203,7 @@ equip
 dmy,dmy,dmy,dmy,1,2,0,0
 かなり強力な武器,@,@,@,@dmy,@dmy
 51
-ta_card_dummy
+ta_card_equip_ex
 
 204
 5,0,0,0,0,0
@@ -213,7 +213,7 @@ equip
 dmy,dmy,dmy,dmy,5,1,0,0
 戦隊用に武器を,複数配置,@,@,@dmy,@dmy
 52
-ta_card_dummy
+ta_card_equip_sentai
 
 205
 5,0,3,0,0,0
@@ -223,7 +223,7 @@ equip
 dmy,dmy,dmy,dmy,1,2,0,0
 ちょーつよい武器,@,@,@,@dmy,@dmy
 53
-ta_card_dummy
+ta_card_equip_masamune
 
 
 206
@@ -296,7 +296,7 @@ spell
 dmy,dmy,dmy,dmy,0,0,dmy,dmy
 敵全体に魔法ダメージ,@,@,@,dmy,dmy
 80
-ta_card_dummy
+ta_card_spell_bayoen
 
 401
 1,0,1,0,0,0
@@ -306,7 +306,7 @@ spell
 dmy,dmy,dmy,dmy,3,0,dmy,dmy
 複数の火球ダメージ,@,@,@,@dmy,@dmy
 81
-ta_card_dummy
+ta_card_spell_fireball
 
 402
 1,1,0,0,0,0
@@ -316,7 +316,7 @@ spell
 dmy,dmy,dmy,dmy,1,0,dmy,dmy
 相手のエンチャントを,１つ破壊,@,@,@dmy,@dmy
 82
-ta_card_dummy
+ta_card_spell_disenchant
 
 403
 1,1,1,0,0,0
@@ -326,7 +326,7 @@ spell
 dmy,dmy,dmy,dmy,1,2,dmy,dmy
 すべてのエンチャントを,破壊する,@,@,@dmy,@dmy
 83
-ta_card_dummy
+ta_card_spell_heion
 
 404
 3,0,2,0,0,0
@@ -334,9 +334,9 @@ ta_card_dummy
 spell
 0,dmy,60,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,0,2,dmy,dmy
-敵全体に,中規模魔法ダメージ,@,@,dmy,dmy
+敵全体に,中規模魔法ダメージ,@,@,@dmy,@dmy
 84
-ta_card_dummy
+ta_card_spell_firestorm
 
 405
 5,0,1,0,0,0
@@ -346,7 +346,7 @@ spell
 dmy,dmy,dmy,dmy,1,1,dmy,dmy
 大ダメージの火球,@,@,@,@dmy,@dmy
 85
-ta_card_dummy
+ta_card_spell_kakyu
 
 406
 0,0,5,0,0,0
@@ -356,7 +356,7 @@ spell
 dmy,dmy,dmy,dmy,0,2,dmy,dmy
 敵全体に,魔法の大ダメージ,@,@,@,dmy
 86
-ta_card_dummy
+ta_card_spell_hellfire
 
 
 500
@@ -367,7 +367,7 @@ enchant
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 攻撃力が上がる,@,@,@,@dmy,@dmy
 96
-ta_card_dummy
+ta_card_enchant_jyaaku
 
 501
 0,3,0,0,0,0
@@ -377,7 +377,7 @@ enchant
 dmy,dmy,dmy,dmy,dmy,0,dmy,dmy
 防御力が上がる,@,@,@,@dmy,@dmy
 97
-ta_card_dummy
+ta_card_enchant_seinaru
 
 502
 1,0,2,0,0,0
@@ -387,7 +387,7 @@ enchant
 dmy,dmy,dmy,dmy,dmy,1,dmy,dmy
 敵の攻撃力を下げる,@,@,@,@dmy,@dmy
 98
-ta_card_dummy
+ta_card_enchant_kensute
 
 503
 1,2,0,0,0,0
@@ -407,7 +407,7 @@ enchant
 dmy,dmy,dmy,dmy,dmy,2,dmy,dmy
 攻撃力を大きく上げる,@,@,@,@dmy,@dmy
 100
-ta_card_dummy
+ta_card_enchant_totsu
 
 505
 4,3,0,0,0,0
@@ -417,8 +417,27 @@ enchant
 dmy,dmy,dmy,dmy,dmy,2,dmy,dmy
 防御力を大きく上げる,@,@,@,@dmy,@dmy
 101
-ta_card_dummy
+ta_card_enchant_teppeki
 
+506
+4,0,3,0,0,0
+会心
+enchant
+1,dmy,100,dmy,dmy,dmy,dmy
+dmy,dmy,dmy,dmy,dmy,2,dmy,dmy
+攻撃力を,非常に大きく上げる,@,@,@dmy,@dmy
+102
+ta_card_enchant_kaishin
+
+507
+4,3,0,0,0,0
+痛恨
+enchant
+-2,dmy,dmy,-100,dmy,dmy,dmy
+dmy,dmy,dmy,dmy,dmy,2,dmy,dmy
+敵の防御力を,非常に大きく下げる,@,@,@dmy,@dmy
+103
+ta_card_enchant_tsukon
 
 600
 0,2,2,0,0,0
@@ -428,7 +447,7 @@ world
 dmy,dmy,dmy,dmy,dmy,2,dmy,dmy
 敵味方ともに,スペルの威力が,大きく下がる,@,@dmy,@dmy
 112
-ta_card_dummy
+ta_card_world_zettai
 
 601
 1,1,1,0,0,0
@@ -438,7 +457,7 @@ world
 dmy,dmy,dmy,dmy,dmy,1,dmy,dmy
 敵味方ともに,スペルの威力が上がる,@,@,@dmy,@dmy
 113
-ta_card_dummy
+ta_card_world_explode
 
 
 602
@@ -449,7 +468,7 @@ world
 dmy,dmy,dmy,dmy,dmy,1,dmy,dmy
 敵味方ともに,攻撃力が上がる,@,@,@dmy,@dmy
 114
-ta_card_dummy
+ta_card_world_basaku
 
 603
 0,1,1,0,0,0
@@ -459,7 +478,7 @@ world
 dmy,20,dmy,dmy,dmy,2,dmy,dmy
 敵味方ともに,移動速度が遅くなる,@,@,@dmy,@dmy
 115
-ta_card_dummy
+ta_card_world_slow
 
 604
 4,1,1,0,0,0
@@ -467,9 +486,9 @@ ta_card_dummy
 world
 5,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,2,1,dmy,dmy
-敵味方ともに,装備や人の配置数が,増える,@,@dmy,@dmy
+敵味方ともに,配置数が増える,@,@,ジドム量産の暁には,ひとひねりだ
 116
-ta_card_dummy
+ta_card_world_kazu
 
 605
 6,1,1,0,0,0
@@ -477,9 +496,9 @@ ta_card_dummy
 world
 5,dmy,dmy,dmy,dmy,dmy,dmy
 dmy,dmy,dmy,dmy,3,2,dmy,dmy
-敵味方ともに,装備や人の配置数が,大きく増える,@,@dmy,@dmy
+敵味方ともに,配置数が大きく増える,@,@,ズクとは違うのだよ,ズクとは
 117
-ta_card_dummy
+ta_card_world_3bai
 
 606
 2,1,1,0,0,0
@@ -489,7 +508,7 @@ world
 dmy,dmy,dmy,dmy,dmy,1,dmy,dmy
 敵味方ともに,防御力が上がる,@,@,@dmy,@dmy
 118
-ta_card_dummy
+ta_card_world_boei
 
 607
 2,1,1,0,0,0
@@ -499,7 +518,7 @@ world
 dmy,dmy,dmy,dmy,dmy,1,dmy,dmy
 敵味方ともに,防御力が下がる,@,@,@dmy,@dmy
 119
-ta_card_dummy
+ta_card_world_hakai
 
 608
 2,1,1,0,0,0
@@ -509,6 +528,6 @@ world
 dmy,dmy,dmy,dmy,dmy,1,dmy,dmy
 敵味方ともに,攻撃力が下がる,@,@,@dmy,@dmy
 120
-ta_card_dummy
+ta_card_world_heiwa
 
 
