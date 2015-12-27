@@ -9,6 +9,11 @@ menu1Button2FileName ta_title_button_edit
 menu1Button3FileName ta_title_button_deck
 menu1Button4FileName ta_title_button_init
 
+menu1Button1ClickSound 1
+menu1Button2ClickSound 1
+menu1Button3ClickSound 1
+menu1Button4ClickSound 1
+
 menu1Button1AccelKey1 P
 menu1Button2AccelKey1 E
 menu1Button3AccelKey1 D

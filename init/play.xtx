@@ -18,19 +18,22 @@ backAnimeType1 7
 useFilename ta_play_button_use
 useSizeX 128
 useSizeY 64
-usePrintX 50
-usePrintY 600
+usePrintX 208
+usePrintY 790
 @useClickSound 1
 
 
 dropFilename ta_play_button_drop
 dropSizeX 128
 dropSizeY 64
-dropPrintX 250
-dropPrintY 600
+dropPrintX 400
+dropPrintY 790
+dropClickSound 3
 
 cancelFilename ta_play_button_cancel
 cancelSizeX 128
 cancelSizeY 64
 cancelPrintX 400
-cancelPrintY 600
+cancelPrintY 690
+cancelClickSound 2
+cancelIsCancelButton 1

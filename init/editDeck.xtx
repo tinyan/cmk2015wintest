@@ -11,6 +11,7 @@ saveSizeX 128
 saveSizeY 64
 savePrintX 400
 savePrintY 890
+saveClickSound 1
 
 updownBGUse 0
 upFilename ta_editdeck_button_up
@@ -18,12 +19,14 @@ upSizeX 64
 upSizeY 64
 upPrintX 10
 upPrintY 800
+upClickSound 1
 
 downFilename ta_editdeck_button_down
 downSizeX 64
 downSizeY 64
 downPrintX 90
 downPrintY 800
+downClickSound 1
 
 backFilename ta_editdeck_button_quit
 backButtonBGUse 0
@@ -31,5 +34,5 @@ backSizeX 128
 backSizeY 64
 backPrintX 10
 backPrintY 890
-
+backClickSound 2
 
